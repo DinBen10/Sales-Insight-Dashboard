@@ -1,4 +1,4 @@
-# Sales-Insight-Dashboard
+# Sales Insight Dashboard
 
 The dashboard provides a comprehensive view of our sales data, allowing us to analyze key metrics and trends to drive strategic decision-making and business growth.
 
